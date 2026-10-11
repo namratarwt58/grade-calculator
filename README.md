@@ -1,3 +1,3 @@
 ## Calculate your Results.
-## Grading system
-## Built in C++
+ Grading system
+ Built in C++
