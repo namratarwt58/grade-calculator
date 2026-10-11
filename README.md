@@ -1,1 +1,3 @@
-## Calculate grades as per your input  Grade A B C D etc Built using C++
+## Calculate your Results.
+## Grading system
+## Built in C++
